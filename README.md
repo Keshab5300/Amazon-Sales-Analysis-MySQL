@@ -3,7 +3,8 @@
 This project involves analyzing sales data from Amazon to derive insights and answer specific queries related to product discounts, reviews, and pricing. The analysis aims to facilitate data-driven decision-making by identifying trends and patterns in the sales data.
 
 ## Dataset
-Dataset Link : https://drive.google.com/file/d/1hJOXNpOUXOpyjsrBt1O8MyIJHfWgzakS/view The dataset includes information about various products, including their actual price, discounted price, category, and customer reviews.
+Dataset Link : https://drive.google.com/file/d/1hJOXNpOUXOpyjsrBt1O8MyIJHfWgzakS/view 
+The dataset includes information about various products, including their actual price, discounted price, category, and customer reviews.
 
 ## Queries
 The analysis involves executing the following SQL queries:
